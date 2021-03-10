@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "name": "ĐẠI LÝ BÌNH THẠNH 3",
+        "address": "1/1, Trần Bình Trọng, Phường 5, Quận Bình Thạnh, TP Hồ Chí Minh",
+        "isFavourite": true
+    },
+    {
+        "id": "2",
+        "name": "ĐẠI LÝ TÂN BÌNH 1",
+        "address": "86/18, Phổ Quang, Phường 2, Quận Tân Bình, TP Hồ Chí Minh",
+        "isFavourite": true
+    },
+    {
+        "id": "3",
+        "name": "ĐẠI LÝ QUẬN 6",
+        "address": "443, Lê Quang Sung, Phường 9, Quận 6, TP Hồ Chí Minh",
+        "isFavourite": true
+    },
+    {
+        "id": "4",
+        "name": "ĐẠI LÝ QUẬN 7",
+        "address": "1174, Huỳnh Tấn Phát, Phường Tân Phú, Quận 7, TP Hồ Chí Minh",
+        "isFavourite": false
+    },
+    {
+        "id": "5",
+        "name": "ĐẠI LÝ BÌNH TÂN 2",
+        "address": "06, khu dân cư Vĩnh Lộc, Đường số 1A, Phường Bình Hưng Hòa B, Quận Bình Tân, TP Hồ Chí Minh",
+        "isFavourite": true
+    }
+]
